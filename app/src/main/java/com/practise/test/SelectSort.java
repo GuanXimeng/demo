@@ -7,6 +7,7 @@ package com.practise.test;
 public class SelectSort {
     public static void main(String[] main) {
         int[] number = {5, 6, 3, 13, 4};
+		//测试
         for (int i = 0; i < number.length; i++) {
             int min = i;
             for (int j = i; j < number.length; j++) {
